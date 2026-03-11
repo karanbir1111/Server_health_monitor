@@ -56,7 +56,7 @@ Before running this script, make sure you have:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/serverz-health_monitor.git
+git clone https://github.com/yourusername/server_health_monitor.git
 cd azure-health-monitor
 ```
 
